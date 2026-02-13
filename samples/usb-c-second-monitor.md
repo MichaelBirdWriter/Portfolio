@@ -21,8 +21,8 @@ Many USB-C ports support charging/data but **not display output**.
 - Look for a DisplayPort icon or Thunderbolt lightning icon near the port
 - Check your laptop’s specs for “DisplayPort Alt Mode,” “Thunderbolt,” or “USB4”
 
-**If you can’t confirm video support**
-Assume the port may be charge/data only and skip to **Step 4**.
+**If you can’t confirm video support:** assume the port may be charge/data-only and skip to **Step 4**.
+
 
 ---
 
