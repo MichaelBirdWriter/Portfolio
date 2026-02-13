@@ -1,4 +1,4 @@
-# Hi — I’m Michael.
+# Hi — I’m Michael Bird.
 
 I write clear, practical documentation that helps people fix problems fast.
 
