@@ -1,4 +1,4 @@
-# Hi — I’m Tommy.
+# Hi — I’m Michael.
 
 I write clear, practical documentation that helps people fix problems fast.
 
