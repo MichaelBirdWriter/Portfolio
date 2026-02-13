@@ -4,4 +4,4 @@ I'm building a technical writing portfolio focused on troubleshooting, how-to gu
 
 **Contact:** (michaelbird.writer@gmail.com)
 
-← Back to [Home](index.html)
+← Back to [Home](index.md)
