@@ -7,5 +7,5 @@ I write clear, practical documentation that helps people fix problems fast.
 - Turning messy info into clean instructions
 - Writing for real users (not engineers)
 
-👉 **Go to:** [Work](work.md) | [About](about.md)
+**Go to:** 👉 [Work](work.md) | [About](about.md)
 
